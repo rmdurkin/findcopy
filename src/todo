@@ -1,0 +1,26 @@
+linearset
+linearhash
+commonlines - simulate
+copypasteentry
+syntaxfilter
+badsig
+.
+(utilfuncs)
+fileagedays
+prepline1
+---------------
+(utilfuncs)
+elapsed
+prepline1
+hextobyte
+bytetohex
+stringtolines
+.
+bytestring
+cryptohash
+filelinereader
+filelinewriter
+hash64
+rand
+winloc
+winsig
